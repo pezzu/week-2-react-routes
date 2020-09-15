@@ -7,7 +7,7 @@ const Dashboard = () => {
       <nav>
         <ul>
           <li>
-            <div id="tittle">Dashboard</div>
+            <div id="title">Dashboard</div>
           </li>
           <li>
             <Link to="/dashboard/profile/dc9c4c49-058d-4801-a85c-2d067195030e">Go To Profile</Link>

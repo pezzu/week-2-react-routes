@@ -8,7 +8,7 @@ const Profile = () => {
       <nav>
         <ul>
           <li>
-            <div id="tittle">Profile</div>
+            <div id="title">Profile</div>
           </li>
           <li>
             <div id="username">{user}</div>
